@@ -82,7 +82,7 @@ svg {
     margin-right: 10px;
 }
 
-#add-to-cart :hover {
+#add-to-cart:hover {
     background-color: #1E4033;
     cursor: pointer;
 }
